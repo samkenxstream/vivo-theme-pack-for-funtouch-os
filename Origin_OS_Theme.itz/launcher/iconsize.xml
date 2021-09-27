@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ICONSIZE>
+	<width>50</width>
+	<height>50</height>
+	<calendar>false</calendar>
+	<leftoffset>0</leftoffset>
+	<topoffset>0</topoffset>
+	<foldericonsize>50</foldericonsize>
+	<calendartweek>true</calendartweek>
+	<weektextsize>14</weektextsize>
+	<weektextcolor>0</weektextcolor>
+	<weekleftoffset>0</weekleftoffset>
+	<weektopoffset>-300</weektopoffset>
+	<calendarmonth>true</calendarmonth>
+	<monthtextsize>90</monthtextsize>
+	<monthtextcolor>16749098</monthtextcolor>
+	<monthtextshadowcolor>0</monthtextshadowcolor>
+	<monthtextshadowy>0</monthtextshadowy>
+	<monthleftoffset>0</monthleftoffset>
+	<monthtopoffset>-30</monthtopoffset>
+  <version>1</version>
+  <foldericonwidth>38</foldericonwidth>
+  <foldericonheight>38</foldericonheight>
+  <folderpreviewcolumn>3</folderpreviewcolumn>
+  <folderpreviewrow>3</folderpreviewrow>
+  <folderpreviewpadding>0</folderpreviewpadding>
+  <shape>1</shape>
+</ICONSIZE>
